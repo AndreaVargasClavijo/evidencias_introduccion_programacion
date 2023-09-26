@@ -55,7 +55,8 @@ Las páginas del sitio serán:
  </html>
 ```
 
-about.html
+### ABOUT.HTML
+
 ``` HTML
 <!DOCTYPE html>
  <html>
@@ -97,7 +98,7 @@ about.html
  </html>
 ```
 
-contact.html
+### CONTACT.HTML
 
 ``` HTML 
 <!DOCTYPE html>
@@ -141,8 +142,7 @@ contact.html
 </body>
 
 </html>
-
-
+```
 
 
 
