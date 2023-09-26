@@ -16,7 +16,7 @@ Las páginas del sitio serán:
 
 ## INDEX.HTML
 
-```HTML COPY
+```HTML
 <!DOCTYPE html>
  <html>
     <head>
@@ -56,7 +56,7 @@ Las páginas del sitio serán:
 ```
 
 about.html
-``` HTML COPY
+``` HTML
 <!DOCTYPE html>
  <html>
     <head>
@@ -99,7 +99,7 @@ about.html
 
 contact.html
 
-``` HTML COPY 
+``` HTML 
 <!DOCTYPE html>
 <html>
 

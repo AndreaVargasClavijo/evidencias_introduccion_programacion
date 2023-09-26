@@ -26,7 +26,7 @@ Instrucciones:
 
 ### SOLUCIÓN 
 
-``` HTML COPY
+``` HTML
 <html lang="en">
 
 <head>

@@ -15,13 +15,12 @@ Escribir una tabla HTML con 10 filas que muestre información sobre productos re
 - Stock
 - Fecha de creación
 
-Además, combinar celdas en la tabla con los atributos rowspan y colspan, como se muestra en la siguiente imagen.
+Además, combinar celdas en la tabla con los atributos rowspan y colspan
 
-![TABLA] (tabla.jpeg)
 
 ### SOLUCIÓN 
 
-``` HTML COPY
+``` HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>

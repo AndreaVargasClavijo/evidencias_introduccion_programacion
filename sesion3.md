@@ -19,7 +19,7 @@ Utiliza encabezados para títulos en cada elemento
 
 Crea una descripción para cada elemento utilizando párrafos  
 
-```html 
+``` HTML 
 (<p>). 
     
 ```
@@ -27,7 +27,7 @@ Crea una descripción para cada elemento utilizando párrafos
 Además, puedes emplear las siguientes etiquetas para mejorar la estructura y estilo de tu contenido:
 
 
-``` html
+``` HTML
 - Usa <strong> para resaltar texto importante.
 - Utiliza <br> para insertar saltos de línea si es necesario.
 - Agrega <span> para aplicar estilos específicos a porciones de texto.
